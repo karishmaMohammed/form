@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke;
+}
+
+.registration-form{
+    width: 800px;
+    margin: 10px auto;
+    border-radius: 20px;
+    font-weight: 10px;
+    background-color: rgb(229, 226, 226);
+    border: 5px solid black;
+    padding: 25px;
+}
+.btn{
+    border-radius: 20px;
+}
